@@ -1,0 +1,23 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoServe/u-develop-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoServe/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/DiegoServe/u-develop-it#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
